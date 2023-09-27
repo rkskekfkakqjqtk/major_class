@@ -1,0 +1,41 @@
+<!doctype html>  <!-- index.html -->
+<html><head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-sacle=1"/>
+  <title>개인 과제 리스트</title>
+  <style>
+  a:link {color:blue; text-decoration:none;} a:visited { color:purple; text-decoration:none;}
+  a:hover { text-decoration:underline;} a:active {color:red; text-decoration:none;}
+  </style></head>
+<body>
+<h1>정유현 과제 리스트</h3>
+  <ul><hr/>
+  <li> 1주차 </li>
+  <ol>
+    <li><a href=https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_01/Ex.html>Eclipse 초기 실행</a></li>
+  </ol><hr/>
+  <li> 2주차 </li>
+  <ol>
+  <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_02/ex.html">자바 기본 실습 1</a></li>
+  <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_02/ex2.html">자바 출력 실습 1</a></li>
+  <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_02/ex3.html">자바 출력 실습 2</a></li>
+  <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_02/ex4.html">자바 출력 실습 3</a></li>
+  <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_02/MyHouse.html">과제 1</a></li>
+  <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_02/ex5.html">과제 2</a></li>
+  </ol><hr/>
+  <li> 3주차 </li>
+  <ol>
+    <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_03/ex1_1.html">변수 1</a></li>
+    <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_03/ex1_2.html">변수 2</a></li>
+    <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_03/ex1_3.html">변수 3</a></li>
+    <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_03/ex1_4.html">변수 4</a></li>
+    <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_03/ex1_5.html">변수 5</a></li>
+    <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_03/ex1_6.html">변수 6</a></li>
+    <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_03/ex1_7.html">변수 7</a></li>
+    <li><a href="https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_03/ex1_8.html">변수 8</a></li>
+    <li><a href=https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_03/homework1.html>과제 1</a></li>
+    <li><a href=https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_03/homework2.html>과제 2</a></li>
+    <li><a href=https://rkskekfkakqjqtk.github.io/2_2_Java_programming/week_03/homework3.html>과제 3</a></li>
+  </ol><hr/>
+  </ul>
+</body></html>
