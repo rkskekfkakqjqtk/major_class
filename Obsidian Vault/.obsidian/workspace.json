@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "45d0c755b7b6ee8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "450be227e0f737de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccb506e22847db51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7418ffb00143945f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C#/2. C# 기본 문법 구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96d0a42d48c10969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C#/3. 데이터 형.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f4884bc68ba0c22",
+    "type": "split",
+    "children": [
+      {
+        "id": "934c9adaf98ee9f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b1e8bd13bc9be23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae50d051185f1061",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f030969e2d488a9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "right": {
+    "id": "7fd668e9c91dc695",
+    "type": "split",
+    "children": [
+      {
+        "id": "02fe93cb6e3de8fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "405ea149feb0cff8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C#/3. 데이터 형.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43f476aadd0fa46a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C#/3. 데이터 형.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3049146efb80f675",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3e10c91c8f0f7ec2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C#/3. 데이터 형.md"
+              }
+            }
+          },
+          {
+            "id": "0f0e4e52627be08d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "96d0a42d48c10969",
+  "lastOpenFiles": [
+    "C#/2. C# 기본 문법 구조.md",
+    "Database System/데이터베이스 시스템 5.md",
+    "C#/3. 데이터 형.md",
+    "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
+    "image/3. 데이터 형-20240405141014042.webp",
+    "image/3. 데이터 형-20240405140926831.webp",
+    "image/3. 데이터 형-20240405140505165.webp",
+    "3. 데이터 형-20240405140456148.webp",
+    "image/3. 데이터 형-20240405135958737.webp",
+    "3. 데이터 형-20240405140413472.webp",
+    "image/3. 데이터 형-20240405135807427.webp",
+    "image/3. 데이터 형-20240405135714112.webp",
+    "image/3. 데이터 형-20240405134411410.webp",
+    "image/3. 데이터 형-20240405134150922.webp",
+    "C#/1. 닷넷 프레임워크.md",
+    "Data communication & Network/7장 - IP 프로토콜.md",
+    "Data communication & Network/네트워크와데이터통신_1~2주차 정리_정재형.md",
+    "image/Operating System/운영체제 1.md",
+    "C#",
+    "C 샾/2. C# 기본 문법 구조.md",
+    "C 샾/2. C # 기본 문법 구조.md",
+    "C 샾/2. C 샾 기본 문법 구조.md",
+    "C++/C++ 3월 25일.md",
+    "C 샾/1. 닷넷 프레임워크.md",
+    "Database System/데이터베이스 시스템 1.md",
+    "Ohters/Chrome 단축키 정리.md",
+    "Ohters/Markdown 언어.md",
+    "C++/C++ 개인 정리/C++ 개인 정리 1.md",
+    "C++/C++ 개인 정리",
+    "www.naver.com.md",
+    "url.md",
+    "Database System/개인 정리.md",
+    "C 샾",
+    "무제 파일.canvas",
+    "데이터베이스 시스템/무제 폴더",
+    "Database System/데이터베이스 시스템 2.md",
+    "Database System/데이터베이스 시스템 3.md",
+    "C 샾",
+    "image/Operating System",
+    "Database System/데이터베이스 시스템 4.md",
+    "1.md",
+    "Ohters",
+    "image",
+    "Database System",
+    "데이터 통신과 네트워크/무제 폴더"
+  ]
+}
