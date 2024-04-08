@@ -4,47 +4,69 @@
     "type": "split",
     "children": [
       {
-        "id": "450be227e0f737de",
+        "id": "b770d9db11bfc7ca",
         "type": "tabs",
         "children": [
           {
-            "id": "ccb506e22847db51",
+            "id": "a97e18dc7efdde26",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image/1. C++ 프로그래밍 개요-20240407140925405.webp"
+              }
+            }
+          },
+          {
+            "id": "11c2c6a32bce2c13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
+                "file": "C++/2. C & C++ 기본 문법.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7418ffb00143945f",
+            "id": "6ea01789b2e257d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/2. C# 기본 문법 구조.md",
+                "file": "C++/3. 제어문과 반복문.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "96d0a42d48c10969",
+            "id": "5792dad930eff185",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/3. 데이터 형.md",
+                "file": "C++/4. 연산자 및 산술식.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d19fa853c5bd084d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C#/4. 연산자, 제어문.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/3. 데이터 형.md",
+                "file": "C#/4. 연산자, 제어문.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/3. 데이터 형.md",
+                "file": "C#/4. 연산자, 제어문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/3. 데이터 형.md"
+                "file": "C#/4. 연산자, 제어문.md"
               }
             }
           },
@@ -182,22 +204,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96d0a42d48c10969",
+  "active": "d19fa853c5bd084d",
   "lastOpenFiles": [
-    "C#/2. C# 기본 문법 구조.md",
-    "Database System/데이터베이스 시스템 5.md",
+    "프로그래밍 공부 방법.md",
+    "C++/4. 연산자 및 산술식.md",
+    "image/1. C++ 프로그래밍 개요-20240407140925405.webp",
+    "C++/3. 제어문과 반복문.md",
+    "image/3. 제어문과 반복문-20240407155446692.webp",
+    "C++/2. C & C++ 기본 문법.md",
+    "C++/C++ 개인 정리/C++ 개인 정리 1.md",
+    "image/2. C & C++ 기본 문법-20240407145615540.webp",
+    "2. C & C++ 기본 문법-20240407145644595.webp",
+    "image/2. C & C++ 기본 문법-20240407143831351.webp",
+    "image/2. C & C++ 기본 문법-20240407142507560.webp",
+    "C++/1. C++ 프로그래밍 개요.md",
+    "C#/4. 연산자, 제어문.md",
+    "image/4. 연산자, 제어문-20240405161252192.webp",
+    "image/4. 연산자, 제어문-20240405161152206.webp",
+    "4. 연산자, 제어문-20240405161130151.webp",
+    "image/4. 연산자, 제어문-20240405161026659.webp",
     "C#/3. 데이터 형.md",
     "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
-    "image/3. 데이터 형-20240405141014042.webp",
-    "image/3. 데이터 형-20240405140926831.webp",
-    "image/3. 데이터 형-20240405140505165.webp",
-    "3. 데이터 형-20240405140456148.webp",
-    "image/3. 데이터 형-20240405135958737.webp",
-    "3. 데이터 형-20240405140413472.webp",
-    "image/3. 데이터 형-20240405135807427.webp",
-    "image/3. 데이터 형-20240405135714112.webp",
-    "image/3. 데이터 형-20240405134411410.webp",
-    "image/3. 데이터 형-20240405134150922.webp",
+    "C#/2. C# 기본 문법 구조.md",
+    "Database System/데이터베이스 시스템 5.md",
     "C#/1. 닷넷 프레임워크.md",
     "Data communication & Network/7장 - IP 프로토콜.md",
     "Data communication & Network/네트워크와데이터통신_1~2주차 정리_정재형.md",
@@ -211,7 +240,6 @@
     "Database System/데이터베이스 시스템 1.md",
     "Ohters/Chrome 단축키 정리.md",
     "Ohters/Markdown 언어.md",
-    "C++/C++ 개인 정리/C++ 개인 정리 1.md",
     "C++/C++ 개인 정리",
     "www.naver.com.md",
     "url.md",
@@ -219,12 +247,8 @@
     "C 샾",
     "무제 파일.canvas",
     "데이터베이스 시스템/무제 폴더",
-    "Database System/데이터베이스 시스템 2.md",
-    "Database System/데이터베이스 시스템 3.md",
     "C 샾",
     "image/Operating System",
-    "Database System/데이터베이스 시스템 4.md",
-    "1.md",
     "Ohters",
     "image",
     "Database System",
