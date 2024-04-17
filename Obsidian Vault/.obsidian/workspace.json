@@ -4,69 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b770d9db11bfc7ca",
+        "id": "c7875e3a51c6933e",
         "type": "tabs",
         "children": [
           {
-            "id": "a97e18dc7efdde26",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "image/1. C++ 프로그래밍 개요-20240407140925405.webp"
-              }
-            }
-          },
-          {
-            "id": "11c2c6a32bce2c13",
+            "id": "4cc4e40a6609dbc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/2. C & C++ 기본 문법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ea01789b2e257d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/3. 제어문과 반복문.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5792dad930eff185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/4. 연산자 및 산술식.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d19fa853c5bd084d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C#/4. 연산자, 제어문.md",
+                "file": "24-1학기 중간고사 시간 정리.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/4. 연산자, 제어문.md",
+                "file": "24-1학기 중간고사 시간 정리.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/4. 연산자, 제어문.md",
+                "file": "24-1학기 중간고사 시간 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/4. 연산자, 제어문.md"
+                "file": "24-1학기 중간고사 시간 정리.md"
               }
             }
           },
@@ -204,54 +157,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d19fa853c5bd084d",
+  "active": "4cc4e40a6609dbc9",
   "lastOpenFiles": [
-    "프로그래밍 공부 방법.md",
-    "C++/4. 연산자 및 산술식.md",
-    "image/1. C++ 프로그래밍 개요-20240407140925405.webp",
-    "C++/3. 제어문과 반복문.md",
-    "image/3. 제어문과 반복문-20240407155446692.webp",
+    "24 - 1학기 중간고사.md",
+    "Operating System/운영체제 2.md",
+    "Operating System/운영체제 1.md",
+    "Operating System/4. 가상 메모리 관리_정재형.md",
+    "Operating System/페이지 메모리 주소 변환 예제.md",
+    "24-1학기 중간고사 시간 정리.md",
+    "운영체제 2-20240417142732790.webp",
+    "운영체제 2-20240417142627653.webp",
+    "운영체제 2-20240417142610314.webp",
+    "운영체제 2-20240417142358655.webp",
+    "운영체제 2-20240417142140761.webp",
+    "운영체제 2-20240417142330703.webp",
+    "운영체제 2-20240417135723232.webp",
+    "운영체제 2-20240417134757180.webp",
+    "운영체제 2-20240417133438176.webp",
+    "운영체제 2-20240417132759724.webp",
+    "Ohters/Markdown 언어.md",
+    "Operating System/ChatGPT.ico.md5",
+    "ChatGPT.ico 1.md5",
+    "ChatGPT.ico.md5",
+    "Ohters/바이러스 검사 - 멀웨어제로.md",
     "C++/2. C & C++ 기본 문법.md",
-    "C++/C++ 개인 정리/C++ 개인 정리 1.md",
-    "image/2. C & C++ 기본 문법-20240407145615540.webp",
-    "2. C & C++ 기본 문법-20240407145644595.webp",
-    "image/2. C & C++ 기본 문법-20240407143831351.webp",
-    "image/2. C & C++ 기본 문법-20240407142507560.webp",
-    "C++/1. C++ 프로그래밍 개요.md",
-    "C#/4. 연산자, 제어문.md",
-    "image/4. 연산자, 제어문-20240405161252192.webp",
-    "image/4. 연산자, 제어문-20240405161152206.webp",
-    "4. 연산자, 제어문-20240405161130151.webp",
-    "image/4. 연산자, 제어문-20240405161026659.webp",
-    "C#/3. 데이터 형.md",
-    "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
-    "C#/2. C# 기본 문법 구조.md",
-    "Database System/데이터베이스 시스템 5.md",
-    "C#/1. 닷넷 프레임워크.md",
+    "C++/3. 제어문과 반복문.md",
+    "C++/4. 연산자 및 산술식.md",
     "Data communication & Network/7장 - IP 프로토콜.md",
     "Data communication & Network/네트워크와데이터통신_1~2주차 정리_정재형.md",
-    "image/Operating System/운영체제 1.md",
-    "C#",
-    "C 샾/2. C# 기본 문법 구조.md",
-    "C 샾/2. C # 기본 문법 구조.md",
-    "C 샾/2. C 샾 기본 문법 구조.md",
-    "C++/C++ 3월 25일.md",
-    "C 샾/1. 닷넷 프레임워크.md",
-    "Database System/데이터베이스 시스템 1.md",
+    "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
+    "Database System/데이터베이스 시스템 6.md",
     "Ohters/Chrome 단축키 정리.md",
-    "Ohters/Markdown 언어.md",
+    "Ohters/프로그래밍 공부 방법.md",
+    "Ohters/코딩 단축키.md",
+    "C++/C++ 개인 정리/C++ 중간고사 정리.md",
+    "C++/C++ 개인 정리/C++ 개인 정리 1.md",
+    "C++/5. 배열, 포인터, 함수.md",
+    "Database System/데이터베이스 시스템 5.md",
+    "운영체제.md",
+    "C#/4. 연산자, 제어문.md",
+    "C++/1. C++ 프로그래밍 개요.md",
+    "C#",
     "C++/C++ 개인 정리",
-    "www.naver.com.md",
-    "url.md",
-    "Database System/개인 정리.md",
     "C 샾",
     "무제 파일.canvas",
     "데이터베이스 시스템/무제 폴더",
     "C 샾",
-    "image/Operating System",
-    "Ohters",
-    "image",
-    "Database System",
-    "데이터 통신과 네트워크/무제 폴더"
+    "Operating System",
+    "Ohters"
   ]
 }
