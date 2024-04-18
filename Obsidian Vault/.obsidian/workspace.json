@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c7875e3a51c6933e",
+        "id": "55178f32a1fcd09a",
         "type": "tabs",
         "children": [
           {
-            "id": "4cc4e40a6609dbc9",
+            "id": "1517ef14d3d6810a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-1학기 중간고사 시간 정리.md",
+                "file": "C++/6. 클래스와 객체.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "333ca9141f48bb00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/5. 배열, 포인터, 함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "24-1학기 중간고사 시간 정리.md",
+                "file": "C++/6. 클래스와 객체.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "24-1학기 중간고사 시간 정리.md",
+                "file": "C++/6. 클래스와 객체.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "24-1학기 중간고사 시간 정리.md"
+                "file": "C++/6. 클래스와 객체.md"
               }
             }
           },
@@ -157,53 +169,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4cc4e40a6609dbc9",
+  "active": "1517ef14d3d6810a",
   "lastOpenFiles": [
-    "24 - 1학기 중간고사.md",
+    "6. 클래스와 객체-20240418221856358.webp",
+    "6. 클래스와 객체-20240418213913780.webp",
+    "Data communication & Network/7장 - IP 프로토콜.md",
+    "C++/5. 배열, 포인터, 함수.md",
+    "C++/6. 클래스와 객체.md",
+    "6. 클래스와 객체-20240418212458448.webp",
+    "6. 클래스와 객체-20240418211124057.webp",
+    "6. 클래스와 객체-20240418211058444.webp",
+    "6. 클래스와 객체-20240418205805702.webp",
+    "6. 클래스와 객체-20240418205420258.webp",
+    "6. 클래스와 객체-20240418205036625.webp",
+    "6. 클래스와 객체-20240418205011219.webp",
+    "6. 클래스와 객체-20240418204848976.webp",
+    "6. 클래스와 객체-20240418204842684.webp",
+    "Middle Test/24-1학기 중간고사 시간 정리.md",
+    "Middle Test",
+    "Data communication & Network/5장. 데이터 전송.md",
+    "Data communication & Network/4장. 데이터 전송.md",
+    "Data communication & Network/9. TCP 프로토콜_정재형.md",
+    "Operating System/운영체제 4.md",
+    "Operating System/운영체제 3.md",
     "Operating System/운영체제 2.md",
+    "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
+    "Database System/개인 정리.md",
+    "image/Operating System/운영체제 1.md",
+    "Ohters/바이러스 검사 - 멀웨어제로.md",
+    "Ohters/Chrome 단축키 정리.md",
+    "Ohters/Markdown 언어.md",
+    "Ohters/AI 그림 학습.md",
+    "Ohters/프로그래밍 공부 방법 1.md",
+    "Ohters/프로그래밍 공부 방법.md",
+    "Ohters/코딩 단축키.md",
+    "Ohters/지금까지 본 애니 리스트.md",
+    "Ohters/자기주도학습을 위한 기초학습전략 특강.md",
+    "Middle Test/24 - 1학기 중간고사.md",
     "Operating System/운영체제 1.md",
     "Operating System/4. 가상 메모리 관리_정재형.md",
-    "Operating System/페이지 메모리 주소 변환 예제.md",
-    "24-1학기 중간고사 시간 정리.md",
-    "운영체제 2-20240417142732790.webp",
-    "운영체제 2-20240417142627653.webp",
-    "운영체제 2-20240417142610314.webp",
-    "운영체제 2-20240417142358655.webp",
-    "운영체제 2-20240417142140761.webp",
-    "운영체제 2-20240417142330703.webp",
-    "운영체제 2-20240417135723232.webp",
-    "운영체제 2-20240417134757180.webp",
-    "운영체제 2-20240417133438176.webp",
-    "운영체제 2-20240417132759724.webp",
-    "Ohters/Markdown 언어.md",
     "Operating System/ChatGPT.ico.md5",
     "ChatGPT.ico 1.md5",
     "ChatGPT.ico.md5",
-    "Ohters/바이러스 검사 - 멀웨어제로.md",
-    "C++/2. C & C++ 기본 문법.md",
-    "C++/3. 제어문과 반복문.md",
-    "C++/4. 연산자 및 산술식.md",
-    "Data communication & Network/7장 - IP 프로토콜.md",
-    "Data communication & Network/네트워크와데이터통신_1~2주차 정리_정재형.md",
-    "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
-    "Database System/데이터베이스 시스템 6.md",
-    "Ohters/Chrome 단축키 정리.md",
-    "Ohters/프로그래밍 공부 방법.md",
-    "Ohters/코딩 단축키.md",
-    "C++/C++ 개인 정리/C++ 중간고사 정리.md",
-    "C++/C++ 개인 정리/C++ 개인 정리 1.md",
-    "C++/5. 배열, 포인터, 함수.md",
-    "Database System/데이터베이스 시스템 5.md",
-    "운영체제.md",
-    "C#/4. 연산자, 제어문.md",
-    "C++/1. C++ 프로그래밍 개요.md",
     "C#",
     "C++/C++ 개인 정리",
     "C 샾",
     "무제 파일.canvas",
     "데이터베이스 시스템/무제 폴더",
     "C 샾",
-    "Operating System",
-    "Ohters"
+    "Operating System"
   ]
 }
