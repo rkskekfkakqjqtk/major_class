@@ -1,5 +1,8 @@
 [
   "remotely-save",
   "image-converter",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "dataview",
+  "obsidian-admonition",
+  "obsidian-style-settings"
 ]

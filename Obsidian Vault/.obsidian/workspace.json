@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1517ef14d3d6810a",
+            "id": "7601ac19c2c6c090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/6. 클래스와 객체.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "333ca9141f48bb00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/5. 배열, 포인터, 함수.md",
+                "file": "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/6. 클래스와 객체.md",
+                "file": "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/6. 클래스와 객체.md",
+                "file": "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,21 +121,21 @@
             }
           },
           {
-            "id": "3e10c91c8f0f7ec2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "C++/6. 클래스와 객체.md"
-              }
-            }
-          },
-          {
             "id": "0f0e4e52627be08d",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "12af20e4b37fd696",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data communication & Network/1장 - 네트워크와 데이터 통신.md"
+              }
             }
           }
         ],
@@ -169,45 +158,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1517ef14d3d6810a",
+  "active": "ae50d051185f1061",
   "lastOpenFiles": [
-    "6. 클래스와 객체-20240418221856358.webp",
-    "6. 클래스와 객체-20240418213913780.webp",
-    "Data communication & Network/7장 - IP 프로토콜.md",
-    "C++/5. 배열, 포인터, 함수.md",
+    "무제 파일.md",
+    "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
+    "Database System/1장. 데이터베이스 기본 개념.md",
+    "Middle Test/24 - 1학기 중간고사.md",
+    "Database System/7장. 데이데베이스 언어 SQL.md",
+    "Database System/6장. 관계 데이터 연산.md",
+    "Database System/7장. 데이데베이스 언어 SQL_ 정재형.md",
+    "Database System/8장. 데이터베이스 설계_정재형.md",
+    "Database System/2장. 데이터베이스 관리 시스템.md",
+    "7장. 데이데베이스 언어 SQL-20240419155024772.webp",
+    "image/7장. 데이데베이스 언어 SQL-20240419155024772.webp",
+    "image/7장. 데이데베이스 언어 SQL-20240419155005732.webp",
+    "7장. 데이데베이스 언어 SQL-20240419155005732.webp",
+    "Database System/5장. 관계 데이터 모델.md",
+    "Database System/4장. 데이터 모델링.md",
+    "Database System/3장. 데이터베이스 시스템.md",
+    "Data communication & Network/9장. TCP 프로토콜_정재형.md",
+    "Data communication & Network/8장. 네트워크 계층.md",
+    "8장. 네트워크 계층-20240419145319740.webp",
+    "8장. 네트워크 계층-20240419145148274.webp",
+    "matlab 코드.md",
+    "image/8장. 네트워크 계층-20240419140211281.webp",
+    "image/8장. 네트워크 계층-20240419140136528.webp",
+    "image/8장. 네트워크 계층-20240419135756743.webp",
+    "image/8장. 네트워크 계층-20240419135700781.webp",
+    "Data communication & Network/6장. 데이터 링크 계층.md",
+    "Data communication & Network/4장. 데이터 전송.md",
+    "Data communication & Network/5장. 데이터 전송.md",
+    "Data communication & Network/7장. IP 프로토콜.md",
+    "Ohters/프로그래밍 공부 방법.md",
+    "Ohters/프로그래밍 공부 방법 1.md",
     "C++/6. 클래스와 객체.md",
-    "6. 클래스와 객체-20240418212458448.webp",
-    "6. 클래스와 객체-20240418211124057.webp",
-    "6. 클래스와 객체-20240418211058444.webp",
-    "6. 클래스와 객체-20240418205805702.webp",
-    "6. 클래스와 객체-20240418205420258.webp",
-    "6. 클래스와 객체-20240418205036625.webp",
-    "6. 클래스와 객체-20240418205011219.webp",
-    "6. 클래스와 객체-20240418204848976.webp",
-    "6. 클래스와 객체-20240418204842684.webp",
+    "C++/5. 배열, 포인터, 함수.md",
     "Middle Test/24-1학기 중간고사 시간 정리.md",
     "Middle Test",
-    "Data communication & Network/5장. 데이터 전송.md",
-    "Data communication & Network/4장. 데이터 전송.md",
-    "Data communication & Network/9. TCP 프로토콜_정재형.md",
     "Operating System/운영체제 4.md",
     "Operating System/운영체제 3.md",
-    "Operating System/운영체제 2.md",
-    "Data communication & Network/1장 - 네트워크와 데이터 통신.md",
-    "Database System/개인 정리.md",
-    "image/Operating System/운영체제 1.md",
-    "Ohters/바이러스 검사 - 멀웨어제로.md",
-    "Ohters/Chrome 단축키 정리.md",
-    "Ohters/Markdown 언어.md",
-    "Ohters/AI 그림 학습.md",
-    "Ohters/프로그래밍 공부 방법 1.md",
-    "Ohters/프로그래밍 공부 방법.md",
-    "Ohters/코딩 단축키.md",
-    "Ohters/지금까지 본 애니 리스트.md",
-    "Ohters/자기주도학습을 위한 기초학습전략 특강.md",
-    "Middle Test/24 - 1학기 중간고사.md",
-    "Operating System/운영체제 1.md",
-    "Operating System/4. 가상 메모리 관리_정재형.md",
     "Operating System/ChatGPT.ico.md5",
     "ChatGPT.ico 1.md5",
     "ChatGPT.ico.md5",
