@@ -1,0 +1,18 @@
+{
+  "sanctum@@h1-color": "#F68D45",
+  "sanctum@@h2-color": "#F3BD4F",
+  "sanctum@@h3-color": "#8D9319",
+  "sanctum@@h4-color": "#5C997C",
+  "sanctum@@h5-color": "#53709F",
+  "sanctum@@h6-color": "#A577DA",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-sapphire",
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
+  "anuppuccin-theme-settings@@anp-button-metadata-toggle": false,
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-margin-toggle": true,
+  "anuppuccin-theme-settings@@anp-header-divider-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@anp-bold-custom": "anp-bold-red"
+}

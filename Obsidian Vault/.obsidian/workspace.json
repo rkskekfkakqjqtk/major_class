@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "45d0c755b7b6ee8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "55070aed70db4597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e74167a45b367bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/C++ 중간고사 정리.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f4884bc68ba0c22",
+    "type": "split",
+    "children": [
+      {
+        "id": "934c9adaf98ee9f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b1e8bd13bc9be23",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae50d051185f1061",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f030969e2d488a9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5
+  },
+  "right": {
+    "id": "7fd668e9c91dc695",
+    "type": "split",
+    "children": [
+      {
+        "id": "02fe93cb6e3de8fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "405ea149feb0cff8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++/C++ 중간고사 정리.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f0e4e52627be08d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3049146efb80f675",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "12af20e4b37fd696",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++/C++ 중간고사 정리.md"
+              }
+            }
+          },
+          {
+            "id": "43f476aadd0fa46a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++/C++ 중간고사 정리.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "6b1e8bd13bc9be23",
+  "lastOpenFiles": [
+    "C#/강의 자료 정리/3. 데이터 형.md",
+    "C#/강의 자료 정리/2. C# 기본 문법 구조.md",
+    "C#/강의 자료 정리/1. 닷넷 프레임워크.md",
+    "C#/강의 자료 정리/4. 연산자, 제어문.md",
+    "C#/강의 자료 정리",
+    "C#/새 폴더",
+    "Operating System/강의 자료 정리/운영체제 3.md",
+    "Operating System/강의 자료 정리/운영체제 2.md",
+    "Operating System/강의 자료 정리/운영체제 1.md",
+    "Operating System/강의 자료 정리/4. 가상 메모리 관리_정재형.md",
+    "Operating System/강의 자료 정리/운영체제 4_정재형.md",
+    "Operating System/강의 자료 정리/운영체제 4.md",
+    "Operating System/강의 자료 정리",
+    "Operating System/새 폴더",
+    "Data communication & Network/강의 자료 정리/네트워크와데이터통신_1~2주차 정리_정재형.md",
+    "Data communication & Network/강의 자료 정리/9장. TCP 프로토콜_정재형.md",
+    "Data communication & Network/강의 자료 정리/9. TCP 프로토콜_정재형.md",
+    "Data communication & Network/강의 자료 정리/8장. 네트워크 계층.md",
+    "Data communication & Network/강의 자료 정리/7장. IP 프로토콜.md",
+    "Data communication & Network/강의 자료 정리/6장. 데이터 링크 계층.md",
+    "Data communication & Network/강의 자료 정리/5장. 데이터 전송.md",
+    "Data communication & Network/강의 자료 정리/4장. 데이터 전송.md",
+    "Data communication & Network/강의 자료 정리/1장 - 네트워크와 데이터 통신.md",
+    "Data communication & Network/강의 자료 정리",
+    "Data communication & Network/강의 자료정리/네트워크와데이터통신_1~2주차 정리_정재형.md",
+    "Data communication & Network/강의 자료정리/9장. TCP 프로토콜_정재형.md",
+    "Data communication & Network/강의 자료정리/9. TCP 프로토콜_정재형.md",
+    "Data communication & Network/강의 자료정리/8장. 네트워크 계층.md",
+    "Data communication & Network/강의 자료정리/7장. IP 프로토콜.md",
+    "Data communication & Network/강의 자료정리/6장. 데이터 링크 계층.md",
+    "Data communication & Network/강의 자료정리/5장. 데이터 전송.md",
+    "Data communication & Network/강의 자료정리",
+    "Data communication & Network/강의 자 료정리",
+    "Data communication & Network/새 폴더",
+    "Database System/강의 자료 정리",
+    "Database System/새 폴더",
+    "Image/7.  객체의 포인터, 배열, 동적 생성-20240419221121311.webp",
+    "Image/7.  객체의 포인터, 배열, 동적 생성-20240419221004596.webp",
+    "Image/7.  객체의 포인터, 배열, 동적 생성-20240419220944411.webp",
+    "Image/7.  객체의 포인터, 배열, 동적 생성-20240419220036076.webp",
+    "Image/7.  객체의 포인터, 배열, 동적 생성-20240419220032052.webp",
+    "7.  객체의 포인터, 배열, 동적 생성-20240419221121311.webp",
+    "7.  객체의 포인터, 배열, 동적 생성-20240419221004596.webp",
+    "7.  객체의 포인터, 배열, 동적 생성-20240419220944411.webp",
+    "7.  객체의 포인터, 배열, 동적 생성-20240419220036076.webp",
+    "7.  객체의 포인터, 배열, 동적 생성-20240419220032052.webp",
+    "무제 파일.canvas"
+  ]
+}
