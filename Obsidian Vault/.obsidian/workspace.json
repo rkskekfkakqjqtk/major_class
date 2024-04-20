@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "55070aed70db4597",
+        "id": "5b93f2afd4c75c35",
         "type": "tabs",
         "children": [
           {
-            "id": "3e74167a45b367bb",
+            "id": "342200bf1396497b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/C++ 중간고사 정리.md",
+                "file": "C++/교재 정리/C++ 교재 개인 정리 4.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/C++ 중간고사 정리.md",
+                "file": "C++/교재 정리/C++ 교재 개인 정리 4.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/C++ 중간고사 정리.md"
+                "file": "C++/교재 정리/C++ 교재 개인 정리 4.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/C++ 중간고사 정리.md",
+                "file": "C++/교재 정리/C++ 교재 개인 정리 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +158,21 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6b1e8bd13bc9be23",
+  "active": "342200bf1396497b",
   "lastOpenFiles": [
+    "무제 파일.md",
+    "C++/교재 정리/C++ 교재 개인 정리 4.md",
+    "🌈Vault Index.md",
+    "C++/교재 정리/C++ 교재 개인 정리 3.md",
+    "C++/강의 자료 정리/5. 배열, 포인터, 함수.md",
+    "C++/강의 자료 정리/6. 클래스와 객체.md",
+    "C++/강의 자료 정리/7.  객체의 포인터, 배열, 동적 생성.md",
+    "C++/교재 정리/C++ 교재 개인 정리 1.md",
+    "C++/C++ 중간고사 정리.md",
+    "C++/교재 정리/C++ 교재 개인 정리 2.md",
+    "C++/강의 자료 정리/4. 연산자 및 산술식.md",
+    "Operating System/페이지 메모리 주소 변환 예제.md",
+    "image/1. 닷넷 프레임워크-20240405091638855.webp",
     "C#/강의 자료 정리/3. 데이터 형.md",
     "C#/강의 자료 정리/2. C# 기본 문법 구조.md",
     "C#/강의 자료 정리/1. 닷넷 프레임워크.md",
@@ -178,19 +191,7 @@
     "Data communication & Network/강의 자료 정리/9장. TCP 프로토콜_정재형.md",
     "Data communication & Network/강의 자료 정리/9. TCP 프로토콜_정재형.md",
     "Data communication & Network/강의 자료 정리/8장. 네트워크 계층.md",
-    "Data communication & Network/강의 자료 정리/7장. IP 프로토콜.md",
-    "Data communication & Network/강의 자료 정리/6장. 데이터 링크 계층.md",
-    "Data communication & Network/강의 자료 정리/5장. 데이터 전송.md",
-    "Data communication & Network/강의 자료 정리/4장. 데이터 전송.md",
-    "Data communication & Network/강의 자료 정리/1장 - 네트워크와 데이터 통신.md",
     "Data communication & Network/강의 자료 정리",
-    "Data communication & Network/강의 자료정리/네트워크와데이터통신_1~2주차 정리_정재형.md",
-    "Data communication & Network/강의 자료정리/9장. TCP 프로토콜_정재형.md",
-    "Data communication & Network/강의 자료정리/9. TCP 프로토콜_정재형.md",
-    "Data communication & Network/강의 자료정리/8장. 네트워크 계층.md",
-    "Data communication & Network/강의 자료정리/7장. IP 프로토콜.md",
-    "Data communication & Network/강의 자료정리/6장. 데이터 링크 계층.md",
-    "Data communication & Network/강의 자료정리/5장. 데이터 전송.md",
     "Data communication & Network/강의 자료정리",
     "Data communication & Network/강의 자 료정리",
     "Data communication & Network/새 폴더",
@@ -205,7 +206,6 @@
     "7.  객체의 포인터, 배열, 동적 생성-20240419221004596.webp",
     "7.  객체의 포인터, 배열, 동적 생성-20240419220944411.webp",
     "7.  객체의 포인터, 배열, 동적 생성-20240419220036076.webp",
-    "7.  객체의 포인터, 배열, 동적 생성-20240419220032052.webp",
     "무제 파일.canvas"
   ]
 }
