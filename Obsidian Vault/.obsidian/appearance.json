@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Sanctum",
+  "cssTheme": "AnuPpuccin",
   "theme": "system",
   "interfaceFontFamily": "LINE Seed Sans KR",
   "textFontFamily": "LINE Seed Sans KR",
@@ -8,6 +8,10 @@
   "baseFontSizeAction": false,
   "baseFontSize": 16,
   "enabledCssSnippets": [
-    "Untitled-1"
-  ]
+    "Untitled-1",
+    "styles",
+    "header_underline",
+    "dash borad"
+  ],
+  "nativeMenus": false
 }
